@@ -1,7 +1,5 @@
 /*
  * Student Name: Markos Mora
- * Student Number: 110025025
- * Section Number: 58
  */
 
 #include <stdio.h>
